@@ -42,5 +42,10 @@ int main(void)
             shift_text[i] = temp_text;
             printf("%c Alphabetical Index: %d \n", text[i], shift_text[i]);
         }
+        
+        else
+        {
+            printf("%c is not an alphabet.\n", text[i]);
+        }
     }
 }
