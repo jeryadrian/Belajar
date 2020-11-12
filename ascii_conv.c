@@ -1,4 +1,4 @@
-// You can use this as a function to convert a character in a string of text into alphabetical index
+// Can be used as a function to convert a character in a string of text into alphabetical index
 // The input can be an uppercase or lowercase letter
 // It will ignore non-alphabet input
 
