@@ -29,7 +29,6 @@ int main(void)
 
     for (int i = 0; i < length; i++)
     {
-
         int temp_text = (int) text[i];
 
         if ((int) text[i] >= 65 && (int) text[i]<= 90)
